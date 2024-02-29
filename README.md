@@ -1,3 +1,4 @@
 #Resumen de la practica
 Habituarnos al ciclo de trabajo con Git
-Este cambio es para que de el error tipo 1
+-->Este cambio es para que de el error tipo 1
+Este cambio no esta hecho desde local
