@@ -4,3 +4,5 @@ Habituarnos al ciclo de trabajo con Git
     Modificado desde el local
 Modificado desde local2
 Modificacion en la copia1
+
+Nueva funcionalidad añadida:customización de los colores del juego
